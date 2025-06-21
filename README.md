@@ -19,7 +19,6 @@ in Python.
 
 ### Readme
 
----
 ```diff
 This is one of several final project ideas. You can implement any of the final project ideas, or you can come up with your own.
 
@@ -43,6 +42,17 @@ A sample interaction is shown below :
 </p>
 
 
+## Feedback
+
+If you have any suggestions or feedback, don’t hesitate to contact me.
+
+## Authors
+
+- [@AradhyaRay05](https://github.com/AradhyaRay05)
+
+## LICENSE
+
+[MIT License](LICENSE)
 
 
 
