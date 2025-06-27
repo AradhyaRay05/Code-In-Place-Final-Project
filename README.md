@@ -42,7 +42,7 @@ A sample interaction is shown below :
 </p>
 
 
-### Feedback
+## Feedback
 
 If you have any suggestions or feedback, don’t hesitate to contact me.
 
