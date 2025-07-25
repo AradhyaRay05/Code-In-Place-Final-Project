@@ -60,5 +60,5 @@ If you have any suggestions or feedback, don’t hesitate to contact me.
 
 [MIT License](LICENSE)
 
-
+---
 
