@@ -41,6 +41,7 @@ A sample interaction is shown below :
   <img src="https://i.postimg.cc/sxyY8YgH/Screenshot-2025-06-21-234559.png" alt="Code In Place Final Project" width="500">
 </p>
 
+---
 
 ## Feedback
 
