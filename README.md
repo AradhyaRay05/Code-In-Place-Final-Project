@@ -46,6 +46,12 @@ A sample interaction is shown below :
 
 If you have any suggestions or feedback, don’t hesitate to contact me.
 
+---
+
+## LICENSE
+
+
+This project is licensed under the [MIT License](LICENSE) – feel free to use, share, and modify with attribution.
 
 
 ## 📬 Contact
@@ -55,12 +61,6 @@ If you have any suggestions or feedback, don’t hesitate to contact me.
   <a href="www.linkedin.com/in/rayaradhya"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AradhyaRay05"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
-
----
-
-## LICENSE
-
-
 
 ---
 
