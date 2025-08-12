@@ -46,6 +46,8 @@ A sample interaction is shown below :
 
 If you have any suggestions or feedback, don’t hesitate to contact me.
 
+
+
 ## 📬 Contact
 
 <p>
@@ -58,7 +60,7 @@ If you have any suggestions or feedback, don’t hesitate to contact me.
 
 ## LICENSE
 
-[MIT License](LICENSE)
+
 
 ---
 
